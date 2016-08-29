@@ -22,7 +22,7 @@ import android.widget.TextView;
 /**
  * Created by Rangga on 20/08/2016.
  */
-public class DetailBerita extends Activity {
+public class DetailBerita extends Activity 
 
 
     JSONArray string_json = null;
