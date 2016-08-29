@@ -1,4 +1,4 @@
-package com.example.rangga.portalkampus;
+package com.example.rangga.portalkampus
 
 import android.app.Notification;
 import android.app.NotificationManager;
